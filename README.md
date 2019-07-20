@@ -1,5 +1,11 @@
 # Collatz conjecture
 
-![XKCD's comic](https://imgs.xkcd.com/comics/collatz_conjecture.png)
+Visualization on the famous [3n+1 problem](https://en.wikipedia.org/wiki/Collatz_conjecture)
 
-https://xkcd.com/710/
+![](./plot.png)
+
+## References
+
+- [XKCD](https://xkcd.com/710/)
+
+
