@@ -1,4 +1,4 @@
-# Collatz conjecture
+# Collatz conjecture [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khoi/collatz-conjecture/blob/master/notebook.ipynb)
 
 Visualization on the famous [3n+1 problem](https://en.wikipedia.org/wiki/Collatz_conjecture)
 
