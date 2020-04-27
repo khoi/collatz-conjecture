@@ -4,6 +4,8 @@ Visualization on the famous [3n+1 problem](https://en.wikipedia.org/wiki/Collatz
 
 ![https://xkcd.com/710/](https://imgs.xkcd.com/comics/collatz_conjecture.png)
 
+[XKCD#710](https://xkcd.com/710/)
+
 ![](./plot.png)
 n from 1 - 1000000 and their stopping times
 
